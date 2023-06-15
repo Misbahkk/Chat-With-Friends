@@ -6,8 +6,7 @@ ChatWithFriends is a Django project that allows users to create accounts and cha
 
 ## Screenshots
 
-![App Screenshot]()
-
+<img width="866" alt="chatFriends" src="https://github.com/Misbahkk/Chat-With-Friends/assets/107263622/870b4b90-e021-4197-a1cf-6fa00b3b39ba">
 
 ## Features
 
